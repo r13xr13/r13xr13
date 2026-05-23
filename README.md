@@ -83,9 +83,13 @@ me.ping()
 
 ## RF + Wireless
 
+<div align="center">
+  
 `NRF24L01+` · `CC1101` · `NFC/RFID` · `IR TX/RX` · `GPS` · `SDR` · `Sub-GHz` · `Rolling Code` · `WiFi` · `Bluetooth`
 
 If it transmits anything, it's probably on a breadboard right now — or already weaponized.
+
+</div>
 
 ---
 
@@ -119,9 +123,13 @@ If it transmits anything, it's probably on a breadboard right now — or already
 
 ## Philosophy
 
+<div align="center">
+  
 > *Modular. Hackable. Repairable. Portable. Offensive.*
 >
 > If it has GPIO pins, there's a good chance I'll connect something questionable to it.
+
+</div>
 
 ---
 
