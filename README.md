@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=r13xr13%20%C2%B7%20HeavyButter%20%F0%9F%A7%88&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=ESP32%20%C2%B7%20Linux%20%C2%B7%20RF%20%C2%B7%20AI%20at%20the%20edge&descAlignY=58&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=r13xr13%20%C2%B7%20HeavyButter%20%F0%9F%A7%88&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=ESP32%20%C2%B7%20RF%20%C2%B7%20Red%20Team%20%C2%B7%20AI%20at%20the%20edge&descAlignY=58&descColor=8b949e" width="100%"/>
 
 <a href="https://github.com/r13xr13">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=ESP32+%2B+Linux+%2B+RF+%2B+%22this+should+work%22;Founder+of+R13+Systems+%F0%9F%9B%B0%EF%B8%8F;1-bit+LLMs+on+microcontrollers%2C+because+why+not;If+it+has+GPIO+pins...+%F0%9F%93%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=ESP32+%2B+Linux+%2B+RF+%2B+%22this+should+work%22;Offensive+tooling+for+embedded+hardware;AI+inference+on+microcontrollers;Flipper+%C2%B7+ESP32+%C2%B7+Pi+%C2%B7+SDR+%C2%B7+RF;If+it+has+GPIO+pins...+%F0%9F%93%A1" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,14 +23,17 @@ class HeavyButter:
     def __init__(self):
         self.handle      = "@r13xr13"
         self.org         = "R13 Systems"
-        self.hardware    = ["ESP32-CYD", "ESP32-S3", "ESP32-C5", "Pi Zero W"]
-        self.rf          = ["NRF24L01+", "CC1101", "SDR", "GPS", "NFC/RFID", "IR"]
-        self.languages   = ["C++", "Rust", "Go", "Python", "Bash"]
-        self.os          = ["Arch", "CachyOS", "Debian", "Fedora", "DragonOS", "Raspberry Pi OS"]
-        self.philosophy  = "modular · hackable · repairable · portable · private"
+        self.hardware    = ["ESP32-CYD", "ESP32-S3", "ESP32-C5", "Pi's", "HAT's"]
+        self.rf          = ["NRF24L01+", "CC1101", "SDR", "GPS", "NFC/RFID",
+                            "IR TX/RX", "Sub-GHz", "Rolling Code"]
+        self.domains     = ["red team", "embedded AI", "RF research",
+                            "OSINT", "firmware", "network tooling"]
+        self.languages   = ["C++", "C", "Rust", "Go", "Python", "TypeScript", "Bash"]
+        self.os          = ["Arch", "CachyOS", "Debian", "Fedora", "DragonOS", "Raspberry Pi OS", "Kali", "Parrot"]
+        self.philosophy  = "modular · hackable · repairable · portable · offensive · private"
 
     def ping(self):
-        print("ACK — signal received 📡")
+        print("ACK — signal received >>>")
 
 me = HeavyButter()
 me.ping()
@@ -42,38 +45,42 @@ me.ping()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,rust,go,python,linux,bash,git,arduino,raspberrypi,vim&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=cpp,rust,go,python,ts,linux,bash,git,arduino,raspberrypi&theme=dark&perline=10" />
 
 </div>
 
 ---
 
-## Current Projects
+## Projects
 
-### [bonsai-harness](https://github.com/r13xr13/bonsai-harness)
-> Cross-platform 1-bit LLM inference harness — Apple Silicon, Linux x86_64, ESP32 CYD
+### Offensive & Red Team
 
-An 8B-class model in 1.15 GB. Running on a Cheap Yellow Display. Because why not.
+| Repo | Description |
+|------|-------------|
+| **GRiM-FIRMWARE** | Custom predatory ESP32 firmware — private |
 
-```
-Linux x86_64  →  llama.cpp (Vulkan / CUDA / CPU)
-macOS ARM64   →  MLX native 1-bit
-ESP32 CYD     →  custom INT4, 8MB PSRAM
-```
+### AI & Inference
 
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=dea584)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=white)
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-0d1117?style=flat-square&logo=espressif&logoColor=E7352C)
+| Repo | Description |
+|------|-------------|
+| [**bonsai-harness**](https://github.com/r13xr13/bonsai-harness) | Cross-platform 1-bit LLM harness — Linux, macOS, ESP32 CYD |
+| [**nexora-code**](https://github.com/r13xr13/nexora-code) | AI coding assistant · TUI · MCP server · TurboQuant KV cache |
+| [**ram-to-vram-system**](https://github.com/r13xr13/ram-to-vram-system) | Hybrid CPU+GPU memory optimization for AI models |
+
+### OSINT & Visualization
+
+| Repo | Description |
+|------|-------------|
+| [**conflict-globe.gl**](https://github.com/r13xr13/conflict-globe.gl) | Real-time OSINT platform for global conflict monitoring · Go + Three.js |
+| [**proxhunt**](https://github.com/r13xr13/proxhunt) | Proxy hunting toolkit · TypeScript |
 
 ---
 
-### [nexora-code](https://github.com/r13xr13/nexora-code)
-> AI coding assistant with CLI + Bubble Tea TUI, TurboQuant KV cache, MCP server
+## RF + Wireless
 
-Multi-provider (Anthropic, OpenAI, OpenRouter, Ollama, LM Studio). PolarQuant eviction. 4-bit auto-compression. 30+ CLI commands.
+`NRF24L01+` · `CC1101` · `NFC/RFID` · `IR TX/RX` · `GPS` · `SDR` · `Sub-GHz` · `Rolling Code` · `WiFi` · `Bluetooth`
 
-![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ADD8)
-![MCP](https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=anthropic&logoColor=white)
+If it transmits anything, it's probably on a breadboard right now — or already weaponized.
 
 ---
 
@@ -82,7 +89,7 @@ Multi-provider (Anthropic, OpenAI, OpenRouter, Ollama, LM Studio). PolarQuant ev
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=r13xr13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r13xr13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r13xr13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&count_private=true" height="160"/>
 
 </div>
 
@@ -108,17 +115,9 @@ Multi-provider (Anthropic, OpenAI, OpenRouter, Ollama, LM Studio). PolarQuant ev
 
 ---
 
-## RF + Wireless
-
-`NRF24L01+` · `CC1101` · `NFC/RFID` · `IR TX/RX` · `GPS` · `SDR receivers` · `WiFi` · `Bluetooth`
-
-If it transmits anything, there's a good chance it's on a breadboard right now.
-
----
-
 ## Philosophy
 
-> *Modular. Hackable. Repairable. Portable. Low-level. Useful.*
+> *Modular. Hackable. Repairable. Portable. Offensive.*
 >
 > If it has GPIO pins, there's a good chance I'll connect something questionable to it.
 
