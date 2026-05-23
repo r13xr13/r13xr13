@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 class HeavyButter:
@@ -38,7 +38,7 @@ me.ping()
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
