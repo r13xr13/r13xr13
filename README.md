@@ -26,8 +26,8 @@ class HeavyButter:
         self.hardware    = ["ESP32-CYD", "ESP32-S3", "ESP32-C5", "Pi Zero W"]
         self.rf          = ["NRF24L01+", "CC1101", "SDR", "GPS", "NFC/RFID", "IR"]
         self.languages   = ["C++", "Rust", "Go", "Python", "Bash"]
-        self.os          = ["Fedora", "DragonOS", "Raspberry Pi OS"]
-        self.philosophy  = "modular · hackable · repairable · portable · low-level"
+        self.os          = ["Arch", "CachyOS", "Debian", "Fedora", "DragonOS", "Raspberry Pi OS"]
+        self.philosophy  = "modular · hackable · repairable · portable · private"
 
     def ping(self):
         print("ACK — signal received 📡")
