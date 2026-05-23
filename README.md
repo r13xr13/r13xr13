@@ -54,6 +54,8 @@ me.ping()
 
 ## Projects
 
+<div align="center">
+  
 ### Offensive & Red Team
 
 | Repo | Description |
@@ -74,6 +76,8 @@ me.ping()
 |------|-------------|
 | [**conflict-globe.gl**](https://github.com/r13xr13/conflict-globe.gl) | Real-time OSINT platform for global conflict monitoring · Go + Three.js |
 | [**proxhunt**](https://github.com/r13xr13/proxhunt) | Proxy hunting toolkit · TypeScript |
+
+</div>
 
 ---
 
