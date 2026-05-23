@@ -30,7 +30,7 @@ class HeavyButter:
                             "OSINT", "firmware", "network tooling"]
         self.languages   = ["C++", "C", "Rust", "Go", "Python", "TypeScript", "Bash"]
         self.os          = ["Arch", "CachyOS", "Debian", "Fedora", "DragonOS", "Raspberry Pi OS",
-                            "Kali", "Parrot""Docker" "Exegol"]
+                            "Kali", "Parrot", "Docker", "Exegol"]
         self.philosophy  = "modular · hackable · repairable · portable · offensive · private"
 
     def ping(self):
