@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-r13xr13-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/r13xr13)
-[![Website](https://img.shields.io/badge/Web-voltbin.xyz-0d1117?style=for-the-badge&logo=firefox&logoColor=58a6ff)](https://voltbin.xyz)
+[![Website](https://img.shields.io/badge/Web-r13systems.xyz-0d1117?style=for-the-badge&logo=firefox&logoColor=58a6ff)](https://voltbin.xyz)
 [![R13 Systems](https://img.shields.io/badge/Org-R13%20Systems-0d1117?style=for-the-badge&logo=circuitverse&logoColor=3fb950)](https://github.com/r13xr13)
 
 </div>
