@@ -89,9 +89,6 @@ If it transmits anything, it's probably on a breadboard right now — or already
 
 <div align="center">
 
-username=r13xr13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&count_private=true" height="160"/>
-username=r13xr13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&count_private=true" height="160"/>
-
 </div>
 
 <div align="center">
