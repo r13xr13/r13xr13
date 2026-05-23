@@ -48,9 +48,9 @@ me.ping()
 
 ---
 
-## 📦 Current Projects
+## Current Projects
 
-### 🌿 [bonsai-harness](https://github.com/r13xr13/bonsai-harness)
+### [bonsai-harness](https://github.com/r13xr13/bonsai-harness)
 > Cross-platform 1-bit LLM inference harness — Apple Silicon, Linux x86_64, ESP32 CYD
 
 An 8B-class model in 1.15 GB. Running on a Cheap Yellow Display. Because why not.
@@ -67,7 +67,7 @@ ESP32 CYD     →  custom INT4, 8MB PSRAM
 
 ---
 
-### ⚡ [nexora-code](https://github.com/r13xr13/nexora-code)
+### [nexora-code](https://github.com/r13xr13/nexora-code)
 > AI coding assistant with CLI + Bubble Tea TUI, TurboQuant KV cache, MCP server
 
 Multi-provider (Anthropic, OpenAI, OpenRouter, Ollama, LM Studio). PolarQuant eviction. 4-bit auto-compression. 30+ CLI commands.
@@ -77,7 +77,7 @@ Multi-provider (Anthropic, OpenAI, OpenRouter, Ollama, LM Studio). PolarQuant ev
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Multi-provider (Anthropic, OpenAI, OpenRouter, Ollama, LM Studio). PolarQuant ev
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -108,7 +108,7 @@ Multi-provider (Anthropic, OpenAI, OpenRouter, Ollama, LM Studio). PolarQuant ev
 
 ---
 
-## 📡 RF + Wireless
+## RF + Wireless
 
 `NRF24L01+` · `CC1101` · `NFC/RFID` · `IR TX/RX` · `GPS` · `SDR receivers` · `WiFi` · `Bluetooth`
 
@@ -116,7 +116,7 @@ If it transmits anything, there's a good chance it's on a breadboard right now.
 
 ---
 
-## ⚙️ Philosophy
+## Philosophy
 
 > *Modular. Hackable. Repairable. Portable. Low-level. Useful.*
 >
