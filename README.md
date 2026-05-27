@@ -22,7 +22,7 @@
 class HeavyButter:
     def __init__(self):
         self.handle      = "@r13xr13"
-        self.org         = "R13 Systems"
+        self.org         = "r13Systems"
         self.hardware    = ["ESP32-CYD", "ESP32-S3", "ESP32-C5", "Pi's", "HAT's"]
         self.rf          = ["NRF24L01+", "CC1101", "SDR", "GPS", "NFC/RFID",
                             "IR TX/RX", "Sub-GHz", "Rolling Code"]
