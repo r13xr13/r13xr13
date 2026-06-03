@@ -27,7 +27,7 @@ class HeavyButter:
         self.rf          = ["NRF24L01+", "CC1101", "SDR", "GPS", "NFC/RFID",
                             "IR TX/RX", "Sub-GHz", "Rolling Code"]
         self.domains     = ["red team", "embedded AI", "RF research", "Watchdog reporting",
-                            "OSINT", "firmware", "network tooling", "Data forensics"]
+                            "OSINT", "firmware", "network tooling", "Data forensics" "Auditor"]
         self.languages   = ["C++", "C", "Rust", "Go", "Python", "TypeScript", "Bash"]
         self.os          = ["Arch", "CachyOS", "Debian", "Fedora", "DragonOS", "Raspberry Pi OS",
                             "Kali", "Parrot", "Docker", "Exegol"]
