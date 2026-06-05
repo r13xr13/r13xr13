@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=r13xr13%20%C2%B7%20HeavyButter%20%F0%9F%A7%88&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=ESP32%20%C2%B7%20RF%20%C2%B7%20Red%20Team%20%C2%B7%20AI%20Dev%20at%20the%20edge&descAlignY=58&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=r13xr13%20%C2%B7%20HeavyButter%20%F0%9F%A7%88&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=ESP32%20%C2%B7%20RF%20%C2%B7%20Red%20Team%20%C2%B7%20AI%20Dev%20At%20The%20Edge&descAlignY=58&descColor=8b949e" width="100%"/>
 
 <a href="https://github.com/r13xr13">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=ESP32+%2B+Linux+%2B+RF+%2B+%22this+should+work%22;Offensive+tooling+for+embedded+hardware;AI+inference+on+microcontrollers;Linux+%C2%B7+Flipper+%C2%B7+ESP32+%C2%B7+Pi+%C2%B7+SDR+%C2%B7+RF;If+it+has+GPIO+pins...+%F0%9F%93%A1" alt="Typing SVG" />
