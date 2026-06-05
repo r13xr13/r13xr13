@@ -26,8 +26,8 @@ class HeavyButter:
         self.hardware    = ["ESP32-CYD", "ESP32-S3", "ESP32-C5", "Pi's", "HAT's"]
         self.rf          = ["NRF24L01+", "CC1101", "SDR", "GPS", "NFC/RFID",
                             "IR TX/RX", "Sub-GHz", "Rolling Code"]
-        self.domains     = ["red team", "embedded AI", "RF research", "Watchdog reporting",
-                            "OSINT", "firmware", "network tooling", "Data forensics" "Auditor"]
+        self.domains     = ["Red Team", "Embedded AI", "RF Research", "Watchdog Reporting",
+                            "OSINT", "Firmware", "Network Tooling", "Data Forensics" "Auditor"]
         self.languages   = ["C++", "C", "Rust", "Go", "Python", "TypeScript", "Bash"]
         self.os          = ["Arch", "CachyOS", "Debian", "Fedora", "DragonOS", "Raspberry Pi OS",
                             "Kali", "Parrot", "Docker", "Exegol"]
