@@ -87,7 +87,7 @@ me.ping()
   
 `NRF24L01+` · `CC1101` · `NFC/RFID` · `IR TX/RX` · `GPS` · `SDR` · `Sub-GHz` · `Rolling Code` · `WiFi` · `Bluetooth`
 
-If it transmits anything, it's probably on a breadboard right now — or already weaponized.
+If it transmits anything, it's probably on a breadboard right now ... or already weaponized.
 
 </div>
 
